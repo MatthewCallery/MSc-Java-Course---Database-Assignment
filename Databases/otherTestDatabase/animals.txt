@@ -1,0 +1,6 @@
+Key,animal,type
+1001,Horse,Mammal
+1002,Vulture,Bird
+1003,Whale,Mammal
+1004,Sturgeon,Fish
+1005,Spider,Insect

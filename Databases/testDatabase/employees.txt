@@ -1,0 +1,5 @@
+Key,fname,lname,join_month,join_year,salary
+1001,Steven,Jones,May,2009,70000
+1002,Mary,Owens,August,2010,65000
+1003,Alan,Baldwin,March,2016,34500
+1004,Amanda,Lewis,January,2017,50000
